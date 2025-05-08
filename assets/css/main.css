@@ -2500,7 +2500,7 @@ input, select, textarea {
 		input[type="button"].primary,
 		button.primary,
 		.button.primary {
-			background-color: #29ff89;
+			background-color: #1edb73;
 			box-shadow: none !important;
 			color: #ffffff !important;
 		}
@@ -2510,7 +2510,7 @@ input, select, textarea {
 			input[type="button"].primary:hover,
 			button.primary:hover,
 			.button.primary:hover {
-				background-color: #4a4def !important;
+				background-color: #4446bd !important;
 			}
 
 			input[type="submit"].primary:active,
