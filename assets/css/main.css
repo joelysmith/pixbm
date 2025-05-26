@@ -3709,7 +3709,7 @@ input, select, textarea {
 				display: block;
 				height: 1.5em;
 				left: 50%;
-				margin: 0 0 0 -0.75em;
+				margin: 0 0 0 0em;
 				position: absolute;
 				width: 1.5em;
 			}
