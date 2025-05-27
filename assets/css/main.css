@@ -2153,7 +2153,7 @@ input, select, textarea {
 	text-align: left;
   }
   
-  .logo-img {
+.logo-img {
 	
 	margin-left: auto;
   margin-right: auto;
@@ -2162,8 +2162,17 @@ input, select, textarea {
   
   
 
-  }
+ }
+.logo-img2 {
 	
+	margin-left: auto;
+  margin-right: auto;
+  width:80px; /* you can use % */
+    height: auto;
+  
+  
+
+ }	
 
 /* List */
 
