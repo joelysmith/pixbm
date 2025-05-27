@@ -3769,7 +3769,7 @@ input, select, textarea {
 				} */
 
 				#banner .more {
-					display: none;
+					/* display: none; */
 				}
 
 		}
