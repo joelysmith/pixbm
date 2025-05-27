@@ -3754,14 +3754,14 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			#banner {
-				padding: 7em 2em 7em 2em ;
+				padding: 10em 2em 10em 2em ;
 				height: auto;
 				min-height: 0;
 			}
 
 				#banner h2 {
 					font-size: 4.25em;
-					padding: 0em 0em 0em 0em;
+					padding: 10em 0em 10em 0em;
 				}
 
 				/* #banner br {
