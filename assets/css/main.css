@@ -3648,13 +3648,13 @@ input, select, textarea {
 			#banner h2:before {
 				top: 0;
 				left: 0;
-				padding: 0em 5em 0em 5em;
+				padding: 5em 5em 5em 5em;
 			}
 
 			#banner h2:after {
 				bottom: 0;
 				right: 0;
-				padding: 0em 5em 0em 5em;
+				padding: 5em 5em 5em 5em;
 			}
 
 		#banner p {
