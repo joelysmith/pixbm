@@ -3647,13 +3647,13 @@ input, select, textarea {
 
 			#banner h2:before {
 				top: 0;
-				left: 1em;
+				left: 0;
 				padding: 0em 0em 0em 0em;
 			}
 
 			#banner h2:after {
 				bottom: 0;
-				right: 1em;
+				right: 0;
 				padding: 0em 0em 0em 0em;
 			}
 
@@ -3709,7 +3709,7 @@ input, select, textarea {
 				display: block;
 				height: 1.5em;
 				left: 50%;
-				margin: 0 5em 0 5em;
+				margin: 0 0 0 0em;
 				position: absolute;
 				width: 1.5em;
 			}
