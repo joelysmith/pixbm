@@ -3647,14 +3647,14 @@ input, select, textarea {
 
 			#banner h2:before {
 				top: 0;
-				left: 0;
-				padding: 5em 5em 5em 5em;
+				left: 4em;
+				padding: 0em 0em 0em 0em;
 			}
 
 			#banner h2:after {
 				bottom: 0;
-				right: 0;
-				padding: 5em 5em 5em 5em;
+				right: 4em;
+				padding: 0em 0em 0em 0em;
 			}
 
 		#banner p {
