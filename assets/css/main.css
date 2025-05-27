@@ -3695,7 +3695,7 @@ input, select, textarea {
 			position: absolute;
 			text-align: center;
 			text-transform: uppercase;
-			width: 10em;
+			width: 25em;
 			z-index: 1;
 		}
 
