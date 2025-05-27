@@ -2154,9 +2154,11 @@ input, select, textarea {
   }
   
   .logo-img {
-	display: block;
+	
 	margin-left: auto;
   margin-right: auto;
+  width:540px; /* you can use % */
+    height: auto;
   
   
 
