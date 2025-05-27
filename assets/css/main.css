@@ -2157,7 +2157,7 @@ input, select, textarea {
 	
 	margin-left: auto;
   margin-right: auto;
-  width:100px; /* you can use % */
+  width:120px; /* you can use % */
     height: auto;
   
   
@@ -3742,7 +3742,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 736px) {
+		/* @media screen and (max-width: 736px) {
 
 			#banner {
 				padding: 7em 2em 5em 2em ;
@@ -3763,7 +3763,7 @@ input, select, textarea {
 					display: none;
 				}
 
-		}
+		} */
 
 	body.is-preload #banner h2 {
 		-moz-transform: scale(0.95);
